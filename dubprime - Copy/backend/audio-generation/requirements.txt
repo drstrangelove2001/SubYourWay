@@ -1,0 +1,4 @@
+elevenlabs
+pysrt
+python-dotenv
+pydub

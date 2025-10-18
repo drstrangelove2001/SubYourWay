@@ -1,0 +1,29 @@
+VIDEO ANALYSIS RESULTS
+Video: clips/scene.mp4
+FPS: 0.05, Batch Size: 8
+Frames Analyzed: 11
+
+================================================================================
+FRAME-BY-FRAME DESCRIPTIONS:
+================================================================================
+[0.00s] Like those angmoh dramas, they are chilling on the porch, maybe talking cock about life, you know?
+[20.02s] Wah, the house damn atas sia, got car also, like those super rich people in Sentosa cove.
+[40.04s] Eh, looks like they are chit-chatting outside the house, like gossiping about the neighbors or what.
+[60.06s] This scene is confirm from one of those angmoh romance movies, the kind where the guy chases the girl, then they kena family drama.
+[80.08s] The lighting is like staring into a kopitiam, but inside the house, like they are having a serious talk.
+[100.10s] The background got this ah tiong house look, like can see those blue window frames, very traditional.
+[120.12s] They standing outside like they are settling something, like owe money or something then kena confront.
+[140.14s] Eh, look at their face, confirm quarrelling over something, like those couples who fight over small things can liao.
+[160.16s] Eh, this guy look like he sian already, like when you queue for bubble tea but sold out liao.
+[180.18s] Wah, this couple arguing like cb sia, sure kena scolding from the neighbours one.
+[200.20s] Aiyoh, these two look like they're trying to settle some messy drama, like when you try to chope seats at a hawker centre.
+
+================================================================================
+OVERALL SCENE OVERVIEW:
+================================================================================
+Okay, so basically the video starts with this angmoh drama vibe, people chilling on the porch, maybe talking nonsense. Then show the house, damn atas, like Sentosa Cove rich people type. After that, they just chit-chatting outside, like gossiping aunties.
+
+Then, suddenly, romance movie scene appear, like boy chase girl, family drama, all that. Later on, inside the house, lighting like kopitiam, super serious talk going on. Then, they show this old-school ah tiong house with blue windows.
+
+Next thing you know, they are arguing outside, maybe got money issues or what. Confirm quarrel, like those couples over small small things. One guy looks sian already, like bubble tea all sold out. Then confirm plus chop the couple starts fighting damn loud, confirm neighbours will scold. Lastly, look like they trying to settle some big mess, like fighting to chope seats at the hawker centre. So, the whole thing is like angmoh drama mixed with local drama and serious fights.
+

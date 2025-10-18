@@ -1,0 +1,10 @@
+flask
+flask-cors
+python-dotenv
+openai
+pysrt
+elevenlabs
+pydub
+demucs
+numpy<2
+
